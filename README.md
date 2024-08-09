@@ -22,6 +22,6 @@ In conclusion, this project shows that bike rental demand in Seoul is influenced
 
 • Programming Language: Python
 
-• Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scikit Learn
+• Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-• Model Deployment:GitHub
+• Model Deployment: GitHub
