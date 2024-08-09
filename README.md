@@ -17,3 +17,11 @@ Next, I used five different machine learning models – Linear Regression, KNN R
 
 In conclusion, this project shows that bike rental demand in Seoul is influenced by weather conditions, day of the week, and season. To increase bike rental demand, companies can focus on promoting bike rental during good weather, non-holiday days, summer season etc. In addition to that, companies can use the insights gained from this project to optimize their rental pricing and inventory management.
 
+
+# Technologies Used
+
+• Programming Language: Python
+
+• Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scikit Learn
+
+• Model Deployment:GitHub
