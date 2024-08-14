@@ -1,7 +1,11 @@
 # Rental-Bike-Prediction
 
 # Problem Statement
-The increasing demand for rental bikes in urban areas presents a unique opportunity to optimize bike distribution and availability. However, accurately predicting the demand for rental bikes poses several challenges due to the influence of various factors such as weather conditions, time of day, holidays, and socio-economic events. This project aims to develop a predictive model that can forecast the number of bikes rented at a particular time enabling rental services to optimize their operations.
+The increasing demand for rental bikes in urban areas presents a unique opportunity to optimize bike distribution and availability. However, accurately predicting the demand for rental bikes poses several challenges due to the influence of various factors such as weather conditions, time of day, holidays, and socio-economic events. This project aims to develop a predictive model that can forecast the number of bikes rented at a particular time enabling rental services to optimize their operation
+
+<p align="center" width="100%">
+    <img src="https://github.com/user-attachments/assets/237db787-c5fa-4568-a0db-5906ad557530"> 
+</p>
 
 # Project Summary
 The Seoul Bike Sharing Demand Dataset provides data on the number of rented bikes for every hour of the day in Seoul, South Korea, from December 2017 to November 2018. The data is useful for understanding bike rental trends and predicting bike rental demand.
